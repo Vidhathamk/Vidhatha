@@ -1,0 +1,21 @@
+
+        /* ID selector */
+        #first-paragraph {
+            color: red;
+            font-size: 20px;
+            text-align: center;
+        }
+
+        /* Class selector */
+        .second-paragraph {
+            color: rgb(93, 18, 190);            
+            font-size: 20px;
+            text-align: center;
+        }
+
+        /* Element selector */
+        p {
+            color: rgb(18, 160, 30);
+            font-size: 20px;
+            text-align: center;
+        }
